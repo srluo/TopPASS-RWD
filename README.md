@@ -2,7 +2,7 @@
 TopPass NFC Re-Writer SICRE31/41 firmware for Arduino
 
 This RWD was designed for demostration of "TopPASS" - NFC Smart Ticketing System. 
-There are tree kinds operational modes:
+There are tree kinds of operational modes:
 
 - Ticket Validation Mode (Mode 1):
     - Initailzed by STAFF wristband, and load EVENT access pass to RWD.
